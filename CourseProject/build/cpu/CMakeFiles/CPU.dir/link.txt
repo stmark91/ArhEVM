@@ -1,0 +1,2 @@
+/usr/bin/ar qc libCPU.a  CMakeFiles/CPU.dir/src/change.c.o CMakeFiles/CPU.dir/src/command.c.o CMakeFiles/CPU.dir/src/cpu.c.o CMakeFiles/CPU.dir/src/global.c.o CMakeFiles/CPU.dir/src/print.c.o CMakeFiles/CPU.dir/src/read.c.o CMakeFiles/CPU.dir/src/handlers.c.o
+/usr/bin/ranlib libCPU.a

@@ -1,0 +1,2 @@
+/usr/bin/ar qc libBigChars.a  CMakeFiles/BigChars.dir/src/bc.c.o
+/usr/bin/ranlib libBigChars.a

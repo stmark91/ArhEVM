@@ -1,0 +1,29 @@
+Start testing: May 11 20:00 BST
+----------------------------------------------------------
+1/1 Testing: tests_ctest
+1/1 Test: tests_ctest
+Command: "/home/mark/Загрузки/CompArch-master/tests/bin/tests_ctest"
+Directory: /home/mark/Загрузки/CompArch-master/build/tests
+"tests_ctest" start time: May 11 20:00 BST
+Output:
+----------------------------------------------------------
+TEST 1/10 sc_memoryInit:test_sc_memoryInit [OK]
+TEST 2/10 sc_memorySet:test_sc_memorySet [OK]
+TEST 3/10 sc_memoryGet:test_sc_memoryGet [OK]
+TEST 4/10 sc_regInit:test_sc_regInit [OK]
+TEST 5/10 sc_regSet:test_sc_regSet [OK]
+TEST 6/10 sc_regGet:test_sc_regGet [OK]
+TEST 7/10 sc_commandEncode:test_sc_commandEncode [OK]
+TEST 8/10 sc_commandDecode:test_sc_commandDecode [OK]
+TEST 9/10 asmCommand:test_asmCommand [OK]
+TEST 10/10 keywordCode:test_keywordCode [OK]
+RESULTS: 10 tests (10 ok, 0 failed, 0 skipped) ran in 0 ms
+<end of output>
+Test time =   0.00 sec
+----------------------------------------------------------
+Test Passed.
+"tests_ctest" end time: May 11 20:00 BST
+"tests_ctest" time elapsed: 00:00:00
+----------------------------------------------------------
+
+End testing: May 11 20:00 BST

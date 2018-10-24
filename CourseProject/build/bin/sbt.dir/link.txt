@@ -1,0 +1,1 @@
+/usr/bin/cc   -std=gnu99   CMakeFiles/../bin/sbt.dir/basic/src/main.c.o  -o ../bin/sbt -rdynamic basic/libBasic.a asm/libAsm.a cpu/libCPU.a consoleSC/libTerm.a simpleComputer/libSimpleComputer.a print/libWrite.a scan/libReadInt.a bc/libBigChars.a readKey/libReadKey.a 

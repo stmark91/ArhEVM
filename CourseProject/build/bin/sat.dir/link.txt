@@ -1,0 +1,1 @@
+/usr/bin/cc   -std=gnu99   CMakeFiles/../bin/sat.dir/asm/src/main.c.o  -o ../bin/sat -rdynamic asm/libAsm.a cpu/libCPU.a consoleSC/libTerm.a simpleComputer/libSimpleComputer.a print/libWrite.a scan/libReadInt.a bc/libBigChars.a readKey/libReadKey.a 

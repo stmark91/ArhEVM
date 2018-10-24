@@ -1,0 +1,24 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/mark/Загрузки/CompArch-master/consoleSC/src/./../include/./../../print/include/write.h
+unistd.h
+-
+string.h
+-
+
+/home/mark/Загрузки/CompArch-master/consoleSC/src/./../include/term.h
+sys/ioctl.h
+-
+./../../print/include/write.h
+/home/mark/Загрузки/CompArch-master/consoleSC/src/./../include/./../../print/include/write.h
+
+/home/mark/Загрузки/CompArch-master/consoleSC/src/term.c
+./../include/term.h
+/home/mark/Загрузки/CompArch-master/consoleSC/src/./../include/term.h
+

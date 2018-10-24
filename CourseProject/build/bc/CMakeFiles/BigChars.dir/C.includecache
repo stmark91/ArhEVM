@@ -1,0 +1,30 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/mark/Загрузки/CompArch-master/bc/src/./../include/./../../consoleSC/include/term.h
+sys/ioctl.h
+-
+./../../print/include/write.h
+/home/mark/Загрузки/CompArch-master/bc/src/./../include/./../../consoleSC/include/./../../print/include/write.h
+
+/home/mark/Загрузки/CompArch-master/bc/src/./../include/./../../print/include/write.h
+unistd.h
+-
+string.h
+-
+
+/home/mark/Загрузки/CompArch-master/bc/src/./../include/bc.h
+./../../consoleSC/include/term.h
+/home/mark/Загрузки/CompArch-master/bc/src/./../include/./../../consoleSC/include/term.h
+./../../print/include/write.h
+/home/mark/Загрузки/CompArch-master/bc/src/./../include/./../../print/include/write.h
+
+/home/mark/Загрузки/CompArch-master/bc/src/bc.c
+./../include/bc.h
+/home/mark/Загрузки/CompArch-master/bc/src/./../include/bc.h
+

@@ -1,0 +1,2 @@
+/usr/bin/ar qc libHardDrive.a  CMakeFiles/HardDrive.dir/src/hardDrive.c.o CMakeFiles/HardDrive.dir/src/functions.c.o
+/usr/bin/ranlib libHardDrive.a

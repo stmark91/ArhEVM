@@ -1,0 +1,2 @@
+/usr/bin/ar qc libReadInt.a  CMakeFiles/ReadInt.dir/src/readInt.c.o
+/usr/bin/ranlib libReadInt.a

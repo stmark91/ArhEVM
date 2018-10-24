@@ -1,0 +1,2 @@
+/usr/bin/ar qc libWrite.a  CMakeFiles/Write.dir/src/write.c.o
+/usr/bin/ranlib libWrite.a
